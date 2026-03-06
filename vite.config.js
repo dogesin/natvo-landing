@@ -4,5 +4,5 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [vue(), tailwindcss()],
-  base: '/natVo/', // Esto es crítico para que GitHub Pages encuentre tus archivos
+  base: '/', // Esto es crítico para que GitHub Pages encuentre tus archivos
 })
