@@ -4,5 +4,5 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [vue(), tailwindcss()],
-  base: './', // Rutas relativas: los assets cargan siempre (GitHub Pages, local, etc.)
+  base: '/natvo-landing/',
 })
