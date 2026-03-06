@@ -16,11 +16,11 @@
         </span>
       </div>
 
-      <h1 class="mt-8 text-[clamp(30px,4.2vw,46px)] font-medium tracking-[-0.02em] leading-[1.2] max-w-[24ch] text-[#e8e4de] animate-fade-up" style="animation-delay: 0.08s">
-        {{ t('hero.title') }}<br>{{ t('hero.titleLine2') }}
+      <h1 class="mt-8 text-[clamp(30px,4.2vw,46px)] font-medium tracking-[-0.02em] leading-[1.2] max-w-[28ch] text-[#e8e4de] animate-fade-up" style="animation-delay: 0.08s">
+        {{ t('hero.title') }}
       </h1>
 
-      <p class="mt-5 text-[16px] text-[#8a8a8a] max-w-[480px] leading-[1.65] animate-fade-up" style="animation-delay: 0.16s">
+      <p class="mt-5 text-[16px] text-[#8a8a8a] max-w-[560px] leading-[1.65] animate-fade-up" style="animation-delay: 0.16s">
         {{ t('hero.subtitle') }}
       </p>
 

@@ -2,7 +2,11 @@
   <nav class="fixed top-0 left-0 right-0 z-50 h-14 border-b border-white/[0.08] bg-black/70 backdrop-blur-xl backdrop-saturate-[1.8]">
     <div class="mx-auto max-w-[1200px] px-6 h-full flex items-center justify-between gap-4">
       <router-link to="/" class="flex items-center gap-2.5 no-underline shrink-0">
-        <div class="w-5 h-5 rounded-md bg-gradient-to-br from-purple-500 to-violet-600 shadow-[0_0_20px_rgba(168,85,247,0.4)]" />
+        <img
+          :src="logoUrl"
+          alt="NatVo"
+          class="h-8 w-auto object-contain"
+        />
         <span class="text-[15px] font-medium tracking-tight text-[#e8e4de]">NatVo</span>
       </router-link>
 
@@ -48,4 +52,5 @@
 import { useI18n } from '../composables/useI18n'
 
 const { locale, t, setLocale } = useI18n()
+const logoUrl = `${import.meta.env.BASE_URL}Logo_Natvo.png`
 </script>

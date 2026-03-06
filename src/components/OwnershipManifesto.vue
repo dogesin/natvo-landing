@@ -6,11 +6,6 @@
         {{ t('manifesto.hook') }}
       </h2>
 
-      <!-- The Thesis -->
-      <p class="mt-8 text-[#8a8a8a] text-[17px] lg:text-[18px] leading-[1.7] max-w-2xl text-left">
-        {{ t('manifesto.thesis') }}
-      </p>
-
       <!-- Full-width block: The Architecture of Freedom (text left, image right) -->
       <div class="mt-16 lg:mt-20 grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
         <div class="order-2 lg:order-1 text-left">
