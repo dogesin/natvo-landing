@@ -7,9 +7,8 @@ export default {
 
     // Hero
     'hero.kicker': 'Engineering OS',
-    'hero.title': 'Built for local engineering,',
-    'hero.titleLine2': 'NatVo is the OS for your stack.',
-    'hero.subtitle': 'The local control center for FastAPI + Vue teams. Trace every endpoint, database table, and logic flow from a single interface.',
+    'hero.title': "Don't build on rented land.",
+    'hero.subtitle': 'Platforms like Lovable or Replit are great for demos but dangerous for business. With NatVo you own the land, the bricks, and the blueprint—your code lives on your machine, your Git, and your stack.',
     'hero.downloadMac': 'Download for macOS',
     'hero.downloadIos': 'iOS',
     'hero.downloadWindows': 'Windows',
@@ -93,9 +92,8 @@ export default {
     'nav.downloadWindows': 'Windows',
 
     'hero.kicker': 'OS de ingeniería',
-    'hero.title': 'Hecho para ingeniería local,',
-    'hero.titleLine2': 'NatVo es el OS de tu stack.',
-    'hero.subtitle': 'El centro de control local para equipos FastAPI + Vue. Rastrea cada endpoint, tabla de base de datos y flujo de lógica desde una sola interfaz.',
+    'hero.title': 'No construyas en terreno rentado.',
+    'hero.subtitle': 'Plataformas como Lovable o Replit son excelentes para demos, pero peligrosas para el negocio. Con NatVo eres dueño del terreno, los ladrillos y los planos: tu código vive en tu máquina, tu Git y tu stack.',
     'hero.downloadMac': 'Descargar para macOS',
     'hero.downloadIos': 'iOS',
     'hero.downloadWindows': 'Windows',
